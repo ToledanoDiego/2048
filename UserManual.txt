@@ -1,0 +1,14 @@
+This is the user manual for the final project Solving « 2048 » using AI. 
+
+In order to run the  AI you have two options, the first one is to simply run the provided jar file while the second one is to run the java file main.java that you can find under this path: ..\2048\SourceCode\application\  You will need to download JavaFX which I recommend you do it form the eclipse marketplace. 
+
+Once this is done you should have a window containing three buttons, scan1, scan2 and solve.
+Scan1 and Scan2 are used to manually scan the puzzle so the AI knows what to interact with. 
+Solve is used to automatically solve the puzzle once the scanning process has been done.
+
+Here is how to use those buttons, first, you need to go load/open the real puzzle which can be accessed at https://play2048.co
+Then, click the scan1 button and click the top left corner of the puzzle grid on the webpage if this is done correctly, you should have the progress indicator set to 50%
+Then, click the scan2 button and click the top right corner of the puzzle grid on the webpage if this is done correctly, you should have the progress indicator set to 100%
+Then, click on the solve button and click back onto the webpage so the AI can control the puzzle.
+
+Finally, step back and enjoy. =)
